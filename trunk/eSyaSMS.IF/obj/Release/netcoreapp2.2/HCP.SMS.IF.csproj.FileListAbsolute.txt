@@ -1,0 +1,12 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\bin\Release\netcoreapp2.2\HCP.SMS.IF.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\bin\Release\netcoreapp2.2\HCP.SMS.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\bin\Release\netcoreapp2.2\HCP.SMS.IF.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\bin\Release\netcoreapp2.2\HCP.SMS.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\bin\Release\netcoreapp2.2\HCP.SMS.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\obj\Release\netcoreapp2.2\HCP.SMS.IF.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\obj\Release\netcoreapp2.2\HCP.SMS.IF.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\obj\Release\netcoreapp2.2\HCP.SMS.IF.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\obj\Release\netcoreapp2.2\HCP.SMS.IF.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\obj\Release\netcoreapp2.2\HCP.SMS.IF.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\obj\Release\netcoreapp2.2\HCP.SMS.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.IF\obj\Release\netcoreapp2.2\HCP.SMS.IF.pdb

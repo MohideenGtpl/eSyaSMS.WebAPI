@@ -1,0 +1,9 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\bin\Release\netcoreapp2.2\eSyaSMS.DO.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\bin\Release\netcoreapp2.2\eSyaSMS.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\bin\Release\netcoreapp2.2\eSyaSMS.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Release\netcoreapp2.2\eSyaSMS.DO.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Release\netcoreapp2.2\eSyaSMS.DO.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Release\netcoreapp2.2\eSyaSMS.DO.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Release\netcoreapp2.2\eSyaSMS.DO.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Release\netcoreapp2.2\eSyaSMS.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Release\netcoreapp2.2\eSyaSMS.DO.pdb

@@ -1,0 +1,16 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\bin\Release\netcoreapp2.2\eSyaSMS.DL.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\bin\Release\netcoreapp2.2\eSyaSMS.DL.runtimeconfig.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\bin\Release\netcoreapp2.2\eSyaSMS.DL.runtimeconfig.dev.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\bin\Release\netcoreapp2.2\eSyaSMS.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\bin\Release\netcoreapp2.2\eSyaSMS.DL.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\bin\Release\netcoreapp2.2\eSyaSMS.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\bin\Release\netcoreapp2.2\eSyaSMS.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\bin\Release\netcoreapp2.2\eSyaSMS.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\bin\Release\netcoreapp2.2\eSyaSMS.IF.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\obj\Release\netcoreapp2.2\eSyaSMS.DL.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\obj\Release\netcoreapp2.2\eSyaSMS.DL.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\obj\Release\netcoreapp2.2\eSyaSMS.DL.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\obj\Release\netcoreapp2.2\eSyaSMS.DL.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\obj\Release\netcoreapp2.2\eSyaSMS.DL.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\obj\Release\netcoreapp2.2\eSyaSMS.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DL\obj\Release\netcoreapp2.2\eSyaSMS.DL.pdb
