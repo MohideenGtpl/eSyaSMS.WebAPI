@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DL\\HCP.SMS.DL.csproj": {}
+  },
+  "projects": {
+    "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DL\\HCP.SMS.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DL\\HCP.SMS.DL.csproj",
+        "projectName": "HCP.SMS.DL",
+        "projectPath": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DL\\HCP.SMS.DL.csproj",
+        "packagesPath": "C:\\Users\\saurabh\\.nuget\\packages\\",
+        "outputPath": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saurabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DO\\HCP.SMS.DO.csproj": {
+                "projectPath": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DO\\HCP.SMS.DO.csproj"
+              },
+              "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.IF\\HCP.SMS.IF.csproj": {
+                "projectPath": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.IF\\HCP.SMS.IF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DO\\HCP.SMS.DO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DO\\HCP.SMS.DO.csproj",
+        "projectName": "HCP.SMS.DO",
+        "projectPath": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DO\\HCP.SMS.DO.csproj",
+        "packagesPath": "C:\\Users\\saurabh\\.nuget\\packages\\",
+        "outputPath": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saurabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.IF\\HCP.SMS.IF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.IF\\HCP.SMS.IF.csproj",
+        "projectName": "HCP.SMS.IF",
+        "projectPath": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.IF\\HCP.SMS.IF.csproj",
+        "packagesPath": "C:\\Users\\saurabh\\.nuget\\packages\\",
+        "outputPath": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.IF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saurabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DO\\HCP.SMS.DO.csproj": {
+                "projectPath": "C:\\eSyaSMS\\EsyaSMSWebAPI\\MohideenGtpl\\eSyaSMS.WebAPI\\trunk\\eSyaSMS.DO\\HCP.SMS.DO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

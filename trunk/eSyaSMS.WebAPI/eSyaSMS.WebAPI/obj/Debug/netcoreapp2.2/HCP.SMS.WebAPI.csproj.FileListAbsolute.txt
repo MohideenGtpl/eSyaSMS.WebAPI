@@ -40,3 +40,20 @@ D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\
 D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.csproj.CopyComplete
 D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.dll
 D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.pdb
+C:\eSyaSMS\Debug\netcoreapp2.2\HCP.SMS.WebAPI.deps.json
+C:\eSyaSMS\Debug\netcoreapp2.2\HCP.SMS.WebAPI.runtimeconfig.json
+C:\eSyaSMS\Debug\netcoreapp2.2\HCP.SMS.WebAPI.runtimeconfig.dev.json
+C:\eSyaSMS\Debug\netcoreapp2.2\HCP.SMS.WebAPI.dll
+C:\eSyaSMS\Debug\netcoreapp2.2\HCP.SMS.WebAPI.pdb
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.csproj.AssemblyReference.cache
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.AssemblyInfoInputs.cache
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.AssemblyInfo.cs
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.csproj.CoreCompileInputs.cache
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.RazorAssemblyInfo.cache
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.RazorAssemblyInfo.cs
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.RazorTargetAssemblyInfo.cache
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.csproj.CopyComplete
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.dll
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.pdb
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.WebAPI\eSyaSMS.WebAPI\obj\Debug\netcoreapp2.2\HCP.SMS.WebAPI.genruntimeconfig.cache

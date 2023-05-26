@@ -16,3 +16,13 @@ D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\
 D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.AssemblyInfo.cs
 D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.dll
 D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.pdb
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\bin\Debug\netcoreapp2.2\HCP.SMS.DO.deps.json
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\bin\Debug\netcoreapp2.2\HCP.SMS.DO.dll
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\bin\Debug\netcoreapp2.2\HCP.SMS.DO.pdb
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.csproj.AssemblyReference.cache
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.GeneratedMSBuildEditorConfig.editorconfig
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.AssemblyInfoInputs.cache
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.AssemblyInfo.cs
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.csproj.CoreCompileInputs.cache
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.dll
+C:\eSyaSMS\EsyaSMSWebAPI\MohideenGtpl\eSyaSMS.WebAPI\trunk\eSyaSMS.DO\obj\Debug\netcoreapp2.2\HCP.SMS.DO.pdb
